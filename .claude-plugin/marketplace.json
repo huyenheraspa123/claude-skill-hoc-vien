@@ -1,0 +1,7 @@
+{
+  "name": "claude-skill-hoc-vien",
+  "owner": { "name": "huyenheraspa123" },
+  "plugins": [
+    { "name": "hoc-vien", "source": "./plugins/hoc-vien", "description": "Skill tạo skill mới và đưa lên GitHub cho học viên" }
+  ]
+}
